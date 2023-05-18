@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991040459503",
+    "firebase_url": "https://fatafat-cab-booking-default-rtdb.firebaseio.com",
+    "project_id": "fatafat-cab-booking",
+    "storage_bucket": "fatafat-cab-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991040459503:android:b377147ae8d56738b9011a",
+        "android_client_info": {
+          "package_name": "com.fatafat.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991040459503-du2mv85bao8c7hmlorrkuofvs1hfb34p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9XDRRfBdx0feyK4GHAjpb5fpD_jAsmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991040459503-du2mv85bao8c7hmlorrkuofvs1hfb34p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
